@@ -1,0 +1,13 @@
+# Core Dependencies
+python-nmap==0.7.1         # Python wrapper for Nmap
+python-whois==0.8.0        # WHOIS domain availability checks
+
+# CLI and System Utilities
+argparse==1.4.0            # Command-line argument parsing (default in Python >=3.2)
+colorama==0.4.6            # Cross-platform colored terminal text
+
+# Python Version Compatibility
+platform==1.0.8            # System version and platform detection
+
+# Optional Additions
+itertools==8.4.0           # Combinatorial iterator tools (builtin in Python >=3.0)
