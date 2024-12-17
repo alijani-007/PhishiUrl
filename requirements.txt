@@ -11,3 +11,5 @@ platform==1.0.8            # System version and platform detection
 
 # Optional Additions
 itertools==8.4.0           # Combinatorial iterator tools (builtin in Python >=3.0)
+
+#itertools, platform, sys, argparse, and os are part of Python's standard library. They do not need to be installed via pip, as they come built-in with Python.
